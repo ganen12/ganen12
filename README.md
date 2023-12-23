@@ -1,3 +1,3 @@
 - compsci student 🖥️
-- currently learning C++ and back-end
+- currently learning C++ and back-end development 😛
 
